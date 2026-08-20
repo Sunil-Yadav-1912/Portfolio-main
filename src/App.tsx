@@ -10,7 +10,7 @@ const MyWorks = lazy(() => import("./pages/MyWorks"));
 const Play = lazy(() => import("./pages/Play"));
 import { LoadingProvider } from "./context/LoadingProvider";
 
-//test commit
+//test committ
 const App = () => {
   return (
     <BrowserRouter>
